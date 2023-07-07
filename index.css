@@ -227,7 +227,7 @@ body {
   @media screen and (max-width: 600px)
   {
     h1{
-        font-size: small;
+        font-size: 5px;
         line-height: normal;
     }
   }
